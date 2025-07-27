@@ -27,3 +27,48 @@ It applies to tick-by-tick financial trades, genome sequences, physical oscillat
  **Information structure is not an objective property of the data, but a phenomenon that emerges only through real-time, sequential learning.**
 
 SKA’s forward-only, unsupervised process brings to light informational “landmarks,” boundaries, and predictability windows that are invisible to retrospective, batch approaches—even with the same data.
+
+
+## Results & Interpretation
+
+### Example Results
+
+|                    | **Real-Time SKA Learning**             | **Batch SKA Analysis**              |
+| ------------------ | -------------------------------------- | ----------------------------------- |
+| **Entropy**        | Dynamic, structured, regime-aligned    | Smoothed, static, often featureless |
+| **Boundaries**     | Discovered as system unfolds           | Rarely visible                      |
+| **Predictability** | Emerges in “windows” and phases        | Lost in global averaging            |
+| **Anomalies**      | Stand out in entropy/knowledge profile | Obscured by retrospect              |
+
+* **Markets:** Real-time learning reveals transitions, volatility clusters, and hidden regimes.
+* **Genomes:** Information valleys and peaks can appear at functional regions, even in unlabeled DNA.
+* **Physics:** Oscillator learning phase-locks entropy to dynamic states.
+
+
+
+## Philosophical Note
+
+ **The information structure of a system is not pre-existing or revealed by batch analysis.**
+ It emerges dynamically through real-time SKA learning, echoing Wheeler’s “It from bit”—that reality itself arises from acts of measurement and knowledge accumulation.
+
+
+
+## Contributing
+
+We invite you to add your own datasets, experiments, and theoretical explanations!
+Questions, issues, and discussion are welcome.
+
+
+
+## Reference & Foundation Theory
+
+This project builds on the general theory of Structured Knowledge Accumulation (SKA):
+
+* [QUANTIOTA / Arxiv — Foundation Theory](https://github.com/quantiota/Arxiv)
+* [SKA Paper 1 (arXiv:2503.13942)](https://arxiv.org/abs/2503.13942)
+* [SKA Paper 2 (arXiv:2504.03214)](https://arxiv.org/abs/2504.03214)
+
+
+## License
+
+MIT License
