@@ -52,6 +52,11 @@ SKA’s forward-only, unsupervised process brings to light informational “land
  It emerges dynamically through real-time SKA learning, echoing Wheeler’s “It from bit”—that reality itself arises from acts of measurement and knowledge accumulation.
 
 
+## Connection to Gödel’s Incompleteness
+
+The SKA Learning Duality shares a deep parallel with Gödel’s Incompleteness Theorems, which reveal that any sufficiently complex formal system cannot capture all its truths within itself. Similarly, batch SKA analysis—a static, retrospective framework—fails to uncover the dynamic information structure that emerges through real-time SKA learning. Just as Gödel’s truths require stepping beyond the system, SKA’s entropy landscapes, regime boundaries, and predictability windows only appear through sequential, forward-only processing. This connection underscores a universal principle: the full structure of a system’s information is not pre-existing but co-created through the act of learning, echoing the dynamic nature of knowledge itself.
+
+
 
 ## Contributing
 
