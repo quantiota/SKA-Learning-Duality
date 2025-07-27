@@ -8,7 +8,7 @@
 
 **SKA-Learning-Duality** explores a profound and surprising phenomenon discovered in Structured Knowledge Accumulation (SKA):
 
-> *The information structure of any complex system—be it financial markets, biological sequences, or physical signals—emerges only through the process of real-time SKA learning. Batch (retrospective) analysis cannot reveal the same informational landscape.*
+ *The information structure of any complex system—be it financial markets, biological sequences, or physical signals—emerges only through the process of real-time SKA learning. Batch (retrospective) analysis cannot reveal the same informational landscape.*
 
 ## Motivation
 
@@ -24,6 +24,6 @@ It applies to tick-by-tick financial trades, genome sequences, physical oscillat
 
 ## Key Insight
 
-> **Information structure is not an objective property of the data, but a phenomenon that emerges only through real-time, sequential learning.**
+ **Information structure is not an objective property of the data, but a phenomenon that emerges only through real-time, sequential learning.**
 
 SKA’s forward-only, unsupervised process brings to light informational “landmarks,” boundaries, and predictability windows that are invisible to retrospective, batch approaches—even with the same data.
