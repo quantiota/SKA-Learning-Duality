@@ -6,7 +6,7 @@
 
 ## Overview
 
-**SKA-Learning-Duality** explores a profound and surprising phenomenon discovered in Structured Knowledge Accumulation (SKA):
+**SKA Learning Duality** explores a profound and surprising phenomenon discovered in Structured Knowledge Accumulation (SKA):
 
  *The information structure of any complex system—be it financial markets, biological sequences, or physical signals—emerges only through the process of real-time SKA learning. Batch (retrospective) analysis cannot reveal the same informational landscape.*
 
