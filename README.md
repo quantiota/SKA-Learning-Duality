@@ -1,3 +1,5 @@
+
+![SKA Learning Duality](duality.jpg)
 # SKA Learning Duality
 **Emergent Information Structure in Real-Time vs Batch SKA Learning**
 
