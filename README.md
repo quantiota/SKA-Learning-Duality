@@ -1,5 +1,7 @@
 
-![SKA Learning Duality](duality.jpg)
+![SKA Learning Duality](duality.jpg "A pocket watch over ancient books, symbolizing the temporal flow of real-time SKA learning versus the static residue of batch analysis")
+
+
 # SKA Learning Duality
 **Emergent Information Structure in Real-Time vs Batch SKA Learning**
 
