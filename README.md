@@ -60,9 +60,12 @@ This echoes Wheeler's "It from bit"—that reality itself arises from acts of me
 ## Connection to Gödel's Incompleteness
 The SKA Learning Duality shares a deep parallel with Gödel's Incompleteness Theorems, which reveal that any sufficiently complex formal system cannot capture all its truths within itself. Similarly, batch SKA analysis—a static, retrospective framework—fails to uncover the dynamic information structure that emerges through real-time SKA learning. Just as Gödel's truths require stepping beyond the system, SKA's entropy landscapes, regime boundaries, and predictability windows only appear through sequential, forward-only processing. This connection underscores a universal principle: the full structure of information emerges through the act of learning itself.
 
+
+## Discovery Context
+This duality was observed on July 27, 2025, after a month of developing the real-time SKA framework, suggesting a new perspective on information dynamics.
+
 ## Contributing
-We invite you to add your own datasets, experiments, and theoretical explanations!
-Questions, issues, and discussion are welcome.
+We invite you to add your own datasets (e.g., CSV for financial data, FASTA for genomics), experiments, or theoretical explanations! Implement SKA algorithms (e.g., in Python) or share visualizations. Questions and issues are welcome—open a discussion in the Issues section.
 
 ## Reference & Foundation Theory
 This project builds on the general theory of Structured Knowledge Accumulation (SKA):
