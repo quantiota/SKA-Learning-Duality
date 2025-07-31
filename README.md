@@ -29,6 +29,14 @@ It applies to tick-by-tick financial trades, genome sequences, physical oscillat
 
 SKA's forward-only, unsupervised process brings to light informational "landmarks," boundaries, and predictability windows that are invisible to retrospective, batch approaches—even with the same data.
 
+## Entropy Exists Only Before the Outcome
+A central consequence of SKA Learning Duality is this realization:
+
+ **Entropy is a measure of uncertainty—and uncertainty only exists before the outcome is known.**
+
+Therefore, it is fundamentally incoherent to compute entropy on a dataset that has already been fully observed.
+
+
 ## Results & Interpretation
 ### Example Results
 |                    | **Real-Time SKA Learning**             | **Batch SKA Analysis**              |
