@@ -3,6 +3,9 @@
 A pocket watch over ancient books, symbolizing the temporal flow of real-time SKA learning versus the static residue of batch analysis
 
 
+A foundational epistemology of real-time systems, grounded in entropy-based computation.
+
+
 # SKA Learning Duality
 **Emergent Information Structure in Real-Time vs Batch SKA Learning**
 
