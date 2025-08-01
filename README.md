@@ -87,10 +87,15 @@ This duality was observed on July 27, 2025, after a month of developing the real
 We invite you to add your own datasets (e.g., CSV for financial data, FASTA for genomics), experiments, or theoretical explanations! Implement SKA algorithms (e.g., in Python) or share visualizations. Questions and issues are welcome—open a discussion in the Issues section.
 
 ## Reference & Foundation Theory
-This project builds on the general theory of Structured Knowledge Accumulation (SKA):
-* [QUANTIOTA / Arxiv — Foundation Theory](https://github.com/quantiota/Arxiv)
-* [SKA Paper 1 (arXiv:2503.13942)](https://arxiv.org/abs/2503.13942)
-* [SKA Paper 2 (arXiv:2504.03214)](https://arxiv.org/abs/2504.03214)
+
+- This project builds on the general theory of Structured Knowledge Accumulation (SKA):
+ [QUANTIOTA / Arxiv — Foundation Theory](https://github.com/quantiota/Arxiv)
+
+- **Structured Knowledge Accumulation: An Autonomous Framework for Layer-Wise Entropy Reduction in Neural Learning**
+[arXiv:2503.13942](https://arxiv.org/abs/2503.13942)
+
+- **Structured Knowledge Accumulation: The Principle of Entropic Least Action in Forward-Only Neural Learning**
+[arXiv:2504.03214](https://arxiv.org/abs/2504.03214)
 
 ## License
 MIT License
