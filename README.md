@@ -34,7 +34,15 @@ A central consequence of SKA Learning Duality is this realization:
 
  **Entropy is a measure of uncertainty—and uncertainty only exists before the outcome is known.**
 
+ In fact, entropy is not a snapshot—it is a path integral:
+
+ $$\large H = \int L  dt$$,
+
+ where  $L$ acts as a Lagrangian of uncertainty flow. This reveals learning as an irreversible trajectory through time, not a static analysis.
+
 Therefore, it is fundamentally incoherent to compute entropy on a dataset that has already been fully observed.
+
+This is why applying SKA retrospectively violates the principle of least informational action—because it eliminates the uncertainty required for learning to occur.
 
 
 ## Results & Interpretation
