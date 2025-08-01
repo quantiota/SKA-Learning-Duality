@@ -36,7 +36,9 @@ A central consequence of SKA Learning Duality is this realization:
 
  In fact, entropy is not a snapshot—it is a path integral:
 
- $$\large H = \int L  dt$$,
+ $$
+ \large H = \int L  dt
+ $$,
 
  where  $L$ acts as a Lagrangian of uncertainty flow. This reveals learning as an irreversible trajectory through time, not a static analysis.
 
